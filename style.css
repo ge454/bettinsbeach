@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Kodchasan:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Lexend+Exa:wght@100..900&family=Noto+Serif+JP:wght@200..900&display=swap');
+body{
+    background-color: #D09E61;
+}
+.Barra{
+    height: 100px;
+}
+.Barra>a>img{
+    width: 300px;
+    margin-top: -80px;
+    margin-left: -40px;
+}
+.Barra>.logo{
+    height: 100px;
+    width: 150px;
+    margin-left: 1370px;
+    margin-top: -70px;
+}
+.Ponto{
+    height: 600px;
+    background-color:#A47944;
+}
+.subtitulo{
+    font-family: "Kodchasan", serif;
+    font-size: larger;
+    margin-left: 400px;
+    margin-top: -180px;
+}
+.subtitulo>a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.subtitulo>a:hover{
+    border-bottom: 2px solid aliceblue ;
+}
+.ubatuba{
+    margin-left: 600px;
+    font-family: "Kodchasan", serif;
+    font-size: larger;
+    margin-top: -26px;
+}
+.ubatuba>a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.ubatuba>a:hover{
+    border-bottom: 2px solid aliceblue ;
+}
+.grande{
+    margin-left: 770px;
+    font-family: "Kodchasan", serif;
+    font-size: larger;
+    margin-top: -24px;
+}
+.grande>a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.grande>a:hover{
+    border-bottom: 2px solid aliceblue ;
+}
+.guaruja{
+    margin-left: 960px;
+    font-family: "Kodchasan", serif;
+    font-size: larger;
+    margin-top: -24px;
+}
+.guaruja>a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.guaruja>a:hover{
+    border-bottom: 2px solid aliceblue ;
+}
+.Ponto>img{
+    margin-left: 700px;
+    height: 600px;
+}
+.titulo{
+    color: aliceblue;
+    font-size: 30px;
+    font-family: "Aboreto", serif;
+    margin-left: 185px;
+    margin-top: -550px;
+}
+.texto{
+    color: aliceblue;
+    margin-left: 120px;
+    margin-top: -25px;
+    font-size: 17px;
+    font-family: "Noto Serif JP", serif;
+    word-spacing: 5px;
+}
+.titulo2{
+    color: aliceblue;
+    font-size: 30px;
+    font-family: "Aboreto", serif;
+    margin-left: 185px;
+  
+}
+.texto2{
+    color: aliceblue;
+    font-size: 17px;
+    font-family: "Noto Serif JP", serif;
+    word-spacing: 5px;
+    margin-left: 120px;
+    margin-top: -25px;
+}
