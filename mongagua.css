@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #8c6239;
+    background-color: #A47944;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -10,7 +10,7 @@ header {
     display:flex;
     justify-content:space-between;
     align-items: center;
-    background-color: #c49a6c;
+    background-color:  #D09E61;
     color: white;
     height: 100px;
 }
@@ -61,7 +61,7 @@ nav ul li a {
     border-radius: 0;
 }
 footer {
-    background-color: #c49a6c;
+    background-color: #D09E61;
     height: 30px;
     width: 100%;
 }
