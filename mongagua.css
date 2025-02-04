@@ -65,3 +65,13 @@ footer {
     height: 30px;
     width: 100%;
 }
+.titulo{
+    color: aliceblue;
+    font-size: 30px;
+    font-family: "Aboreto", serif;
+}
+.texto{
+    color: aliceblue;
+    font-size: 17px;
+    font-family: "Noto Serif JP", serif;
+}
